@@ -3,7 +3,7 @@ Creating a Pokédex with 150 pokemons using view code.
 
 Hello Guys!
 
-in this repository i've created a Pokedex list with 150 pokemons. I choseed the MVC architeture and work with view code. 
+in this repository i've created a Pokedex list with 150 pokemons. I choosed the MVC architeture and work with view code. 
 
 I hope you guys will enjoy it!
 
